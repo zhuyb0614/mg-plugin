@@ -1,7 +1,7 @@
 # mg-plugin
 mybatis-generator 扩展
 
-##使用方法
+## 使用方法
 项目pom引入plugin并且依赖本项目,在resources目录放入generator.properties
 ,generatorConfig.xml并修改配置即可
 ```xml
